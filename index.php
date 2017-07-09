@@ -43,7 +43,18 @@
 		
 		
 		<section>
-			<article id="00002">
+			<article id="id00003">
+				<h3>#3 Bengaler och mord</h3>
+				<p>
+					Är det bra eller dåligt att vara vinnarskalle? 
+					Varför är det så farligt / kul med bengaler? Är Simon skyldig till mord?
+				</p>
+				<audio controls>
+					<source src="https://acastprod.blob.core.windows.net/media/channels/dellasport/acasts/a0540998-f7ea-42ce-b295-b4a19281374d/timeline/4c102c6a-b8e9-4e2f-8f31-492456bd39ed/audio/3bengalerochmord.mp3" type="audio/mpeg">
+					Din webbläsare klarar inte ens mp3, fan vad lökigt!
+					</audio>
+			</article>
+			<article id="id00002">
 				<h3>#2 Barnaglädje</h3>
 				<p>
 					Vi pratar om glädje med U21, om ledsna F1-förare samt 
@@ -55,7 +66,7 @@
 					</audio>
 			</article>
 		
-			<article id="00001">
+			<article id="id00001">
 				<h3>#1 Bosman</h3>
 				<p>
 					I det allra första avsnittet pratar vi om hur absurt det är att man inte får 
