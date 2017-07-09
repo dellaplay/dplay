@@ -43,7 +43,19 @@
 		
 		
 		<section>
-			<article>
+			<article id="00002">
+				<h3>#2 Barnaglädje</h3>
+				<p>
+					Vi pratar om glädje med U21, om ledsna F1-förare samt 
+					om bortamålsregeln och mycket annat.
+				</p>
+				<audio controls>
+					<source src="https://acastprod.blob.core.windows.net/media/channels/dellasport/acasts/a26d1af2-995c-43e4-abbb-a822d542ef80/timeline/d9b2ccfb-8ff4-4039-9d08-2684517e55c3/audio/2dellasportbarnagladje.mp3" type="audio/mpeg">
+					Din webbläsare klarar inte ens mp3, fan vad lökigt!
+					</audio>
+			</article>
+		
+			<article id="00001">
 				<h3>#1 Bosman</h3>
 				<p>
 					I det allra första avsnittet pratar vi om hur absurt det är att man inte får 
@@ -58,7 +70,7 @@
 		</section>
 		
 		<footer class="CENTERTXT">
-				FOOTER
+				FOOTER [alltså såhär kommer det inte att se ut sen!]
 		</footer>
 <!--
 		<script>
