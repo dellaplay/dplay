@@ -7,6 +7,10 @@ body {
 	width: 90%;
 }
 
+small {
+	font-size: 0.625em;
+}
+
 .CENTERTXT { text-align: center; }
 
 .LEFTTXT { text-align: left; }

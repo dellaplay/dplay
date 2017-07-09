@@ -37,7 +37,10 @@
 				Men inte klart p&aring; hundratusen &aring;r, minst! Så ta det för vad det är!
 			</p>
 			<nav>
-				NAV
+				NAV[igationen kommer sen]
+				<p>
+					<small>men nu finns 3 st att latja med kanske... och om inte mp3 stödjs: kör någon annan skitspelare</small>
+				</p>
 			</nav>
 		</header>
 		
