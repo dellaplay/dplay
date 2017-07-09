@@ -1,5 +1,12 @@
-*
-{
+* {
+	border: 1px dotted red; 
 	font-size: 100%;
 }
 
+body {
+	width: 90%;
+}
+
+.CENTERTXT { text-align: center; }
+
+.LEFTTXT { text-align: left; }
