@@ -30,7 +30,7 @@
 	</head>
 	
 	<body>
-	<!-- Loopia Counter Beginning --> <img src="http://counter.loopia.se/stats_img.php?domain=dplay.riksdagen.info_dplay" alt="" width="1" height="1" border="0"> <!-- Loopia Counter End -->
+
 		<header class="CENTERTXT">
 			<h1>DellaPlay</h1>
 			<p class="LEFTTXT">
@@ -166,6 +166,6 @@
 			});
 		</script>
 -->
-
+	<!-- Loopia Counter Beginning --> <img src="http://counter.loopia.se/stats_img.php?domain=dplay.riksdagen.info_dplay" alt="" width="1" height="1" border="0"> <!-- Loopia Counter End -->
 	</body>
 </html>
