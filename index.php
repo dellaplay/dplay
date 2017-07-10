@@ -65,6 +65,19 @@
 				</audio>
 			</article> 
 			to above -->
+			
+			<article id="id00006">
+				<h3>
+					#6 Till viss del kontroversiell våldtäkt
+				</h3>
+				<p>
+					Om Terese sjögrans belöning och Anders Svenssons bil. Om för glad målgest. Om våldtäktsdomar gills eller inte
+				</p>
+				<audio controls>
+				<source src="https://acastprod.blob.core.windows.net/media/channels/dellasport/acasts/3305c1c5-43db-4a69-9be5-a9022813fd99/timeline/6f5b0ba6-c79a-4d2d-b07c-8a29abc46faa/audio/6tillvissdelkontroversiellvaldtakt.mp3" type="audio/mpeg">
+					Din webbläsare klarar inte mp3! FU!
+				</audio>
+			</article> 
 			<article id="id00005">
 				<h3>
 					#5 Straffet för handbolls-mord
