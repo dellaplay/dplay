@@ -36,16 +36,49 @@
 			<p class="LEFTTXT">
 				Men inte klart p&aring; hundratusen &aring;r, minst! Så ta det för vad det är!
 			</p>
+			<p>
+				<h2>Då jag är i akut behov av arbete måste jag lägga tid på det, därför händer det inte så mkt på ett tag.</h2>
+				Men när det finns något som ska vara användbart så skriver jag det någonstans, typ på FB, annars se detta som ett pågående projekt som nödvändigtvis inte fungerar. Men prova gärna och meddela hur det går till a[snabel-a]riksdagen[punkt]info, tack/AnderzL
+			</p>
+			
 			<nav>
 				NAV[igationen kommer sen]
 				<p>
-					<small>men nu finns 3 st att latja med kanske... och om inte mp3 stödjs: kör någon annan skitspelare</small>
+					<small>men nu finns XX st att latja med kanske... och om inte mp3 stödjs: kör någon annan skitspelare</small>
 				</p>
 			</nav>
 		</header>
 		
 		
-		<section id="acast">
+		<section id="acast"> <!--would be better with js holders for all but shit the same! -->
+			<!-- copy from below
+			<article id="id0000">
+				<h3>
+				
+				</h3>
+				<p>
+
+				</p>
+				<audio controls>
+				<source src="" type="audio/mpeg">
+					Din webbläsare klarar inte mp3! FU!
+				</audio>
+			</article> 
+			to above -->
+			<article id="id0000">
+				<h3>
+					#4 Kul att få stryk
+				</h3>
+				<p>
+					Om idrottsbudgeten. Om varför en MMA-legendar lägger av. Om kvinnor filmar eller inte.
+				</p>
+				<audio controls>
+				<source src="https://acastprod.blob.core.windows.net/media/channels/dellasport/acasts/d977bfb4-b56d-499f-b367-2a7514f5c193/timeline/7ea23355-6f54-43ea-a243-292b7fe4bda3/audio/4kulattfastryk.mp3" type="audio/mpeg">
+					Din webbläsare klarar inte mp3! FU!
+				</audio>
+			</article> 
+
+
 			<article id="id00003">
 				<h3>#3 Bengaler och mord</h3>
 				<p>
@@ -55,7 +88,7 @@
 				<audio controls>
 					<source src="https://acastprod.blob.core.windows.net/media/channels/dellasport/acasts/a0540998-f7ea-42ce-b295-b4a19281374d/timeline/4c102c6a-b8e9-4e2f-8f31-492456bd39ed/audio/3bengalerochmord.mp3" type="audio/mpeg">
 					Din webbläsare klarar inte ens mp3, fan vad lökigt!
-					</audio>
+				</audio>
 			</article>
 			<article id="id00002">
 				<h3>#2 Barnaglädje</h3>
