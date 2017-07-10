@@ -65,7 +65,18 @@
 				</audio>
 			</article> 
 			to above -->
-			
+			<article id="id00007">
+				<h3>
+					#7 Tomhet efter vinst
+				</h3>
+				<p>
+					Om mammabi. Om bikramyoga. Om det tråkiga i att vinna
+				</p>
+				<audio controls>
+				<source src="https://acastprod.blob.core.windows.net/media/channels/dellasport/acasts/c90f540d-6fea-4f27-a8f3-3a721b3dbcee/timeline/9f657f66-2b78-46ed-851e-30797b496be8/audio/7tomheteftervinst.mp3" type="audio/mpeg">
+					Din webbläsare klarar inte mp3! FU!
+				</audio>
+			</article> 
 			<article id="id00006">
 				<h3>
 					#6 Till viss del kontroversiell våldtäkt
