@@ -18,6 +18,9 @@
 				3. utgå inte ifrån att detta är vad jag kan, för jag har inte bestämt
 					mål och mening riktigt, jag LÄR MIG att använda saker som jag kan
 					men inte använt på evigheter
+					
+				3b) ALLTSÅ DET BLIR FÖR SEGT OM ALLA SKA LADDAS, FÅR LADDA IN VIA EN IFRAME TROR JAG, DET BLIR SNABBAST.... MEN FULT! får stå kvar som det gör tills jag pallar igen
+					
 	-->
 
 	<head>
