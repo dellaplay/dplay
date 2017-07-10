@@ -37,7 +37,8 @@
 		<header class="CENTERTXT">
 			<h1>DellaPlay</h1>
 			<p class="LEFTTXT">
-				Men inte klart p&aring; hundratusen &aring;r, minst! Så ta det för vad det är!
+				Men inte klart p&aring; hundratusen &aring;r, minst! Så ta det för vad det är! <br />
+				obs ska ändra hela strukturen det här blir för segt, men kommer inte bli så stor skillnad, bara enklare och snabbare, men gör't imorrn! trrrororr jag.... vad torrroro du på? lågåågå kallloorii drink!
 			</p>
 			<p>
 				<h2>Då jag är i akut behov av arbete måste jag lägga tid på det, därför händer det inte så mkt på ett tag.</h2>
